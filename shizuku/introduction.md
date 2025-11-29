@@ -1,5 +1,7 @@
 # Introduction
-
+#<script type="text/javascript" src="https://www.free-counters.org/count/j05v"></script><br>
+ <a href='https://www.acadoo.de/leistungen/ghostwriter-doktorarbeit/'>Dissertation schreiben Unterstützung</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=c1dbd6fb30f34714005aad9fbd2cfe6aee709e8d'></script
+ 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
 
 The name Shizuku comes from [a character](https://danbooru.donmai.us/posts/3553474).
